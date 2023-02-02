@@ -1,1 +1,2 @@
-Chapter test
+Chapter test.
+Altered version.
